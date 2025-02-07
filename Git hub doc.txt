@@ -1,4 +1,0 @@
-Hello, This will be used as my file for my first Git hub entry. This will be uploaded from my local storage to my git hub page and repository. For now we will note the steps taken to get this result. 
-
-First step apart from install is establishing a connection to our git hub username and email 
-

@@ -1,0 +1,20 @@
+https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+
+Hello, This will be used as my file for my first Git hub entry. This will be uploaded from my local storage to my git hub page and repository. For now we will note the steps taken to get this result. 
+
+First step apart from install is establishing a connection to our git hub username and email 
+GitHub Desktop is just a GUI that can make this easier same with gitCLI.
+
+establish an id using a command like "git config --global user.name "Mona Lisa"
+git config --global user.email "leoramos123456@gmail.com"
+
+git init 	\\to create a local repo 
+git add "Git hub doc.txt"	\\Stages	
+git commit -m "latest version"		\\commits 
+git remote add orgin https://github.com/LeonardoRamos1999/Test-2-6.git 		\\Makes our connection to the repo	
+
+git remote -v  \\verifies URL
+git log --oneline  \\shows committed w/ message
+git push -u origin main  \\pushes our work to the connected url. This does prompt me to sign in and done. 
+
+
